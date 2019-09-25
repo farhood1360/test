@@ -1,0 +1,22 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Rashidi <FR72@tmw.com>
+#
+# On branch master
+#
+# Initial commit
+#
+# Untracked files:
+#	.editorconfig
+#	.gitignore
+#	README.md
+#	angular.json
+#	e2e/
+#	package-lock.json
+#	package.json
+#	src/
+#	tsconfig.json
+#	tslint.json
+#
